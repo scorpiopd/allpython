@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40e1c957-907c-4c40-9002-9f0f1ffcbdff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiYCziBDKX6bhaEssV3fzr00oO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.datetime">
+    <configuration name="datetime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100dayswithpython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../100dayswithpython" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../100dayswithpython/datetime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="leetcode125(validpalindrome)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../leetcode/leetcode125(validpalindrome).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../leetcode/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="w3basic26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ch2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3basic26.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="w3basic27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ch2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3basic27.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.datetime" />
+        <item itemvalue="Python.leetcode125(validpalindrome)" />
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.w3basic26" />
+        <item itemvalue="Python.w3basic27" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40e1c957-907c-4c40-9002-9f0f1ffcbdff" name="Default Changelist" comment="" />
+      <created>1581530258725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581530258725</updated>
+      <workItem from="1581530280224" duration="10000" />
+      <workItem from="1581530296742" duration="76000" />
+      <workItem from="1581745206138" duration="4652000" />
+      <workItem from="1581850262860" duration="562000" />
+      <workItem from="1581853682329" duration="2820000" />
+      <workItem from="1581956294880" duration="3238000" />
+      <workItem from="1582002673564" duration="8550000" />
+      <workItem from="1582266935416" duration="1568000" />
+      <workItem from="1582276133586" duration="1651000" />
+      <workItem from="1582614204439" duration="6685000" />
+      <workItem from="1582871521464" duration="825000" />
+      <workItem from="1582964794275" duration="7681000" />
+      <workItem from="1582975133590" duration="4388000" />
+      <workItem from="1583044967668" duration="2884000" />
+      <workItem from="1583135370088" duration="1617000" />
+      <workItem from="1583137048102" duration="1128000" />
+      <workItem from="1583383151727" duration="795000" />
+      <workItem from="1583384165875" duration="807000" />
+      <workItem from="1583423095054" duration="472000" />
+      <workItem from="1583600070279" duration="1056000" />
+      <workItem from="1583644031161" duration="1458000" />
+      <workItem from="1583646189819" duration="1475000" />
+      <workItem from="1583985570612" duration="998000" />
+      <workItem from="1584106377443" duration="1835000" />
+      <workItem from="1584111449327" duration="1703000" />
+      <workItem from="1584189247409" duration="1274000" />
+      <workItem from="1584703437607" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="890" height="194" key="GridCell.Tab.0.bottom" timestamp="1584703828514">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="890" height="194" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1584113277892" />
+    <state width="890" height="194" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1584191533808" />
+    <state width="890" height="194" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1584703769783" />
+    <state width="890" height="194" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1584703828514" />
+    <state width="826" height="194" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1581958761744" />
+    <state width="890" height="194" key="GridCell.Tab.0.center" timestamp="1584703828513">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="890" height="194" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1584113277891" />
+    <state width="890" height="194" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1584191533808" />
+    <state width="890" height="194" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1584703769782" />
+    <state width="890" height="194" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1584703828513" />
+    <state width="826" height="194" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1581958761743" />
+    <state width="890" height="194" key="GridCell.Tab.0.left" timestamp="1584703828512">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="890" height="194" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1584113277891" />
+    <state width="890" height="194" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1584191533807" />
+    <state width="890" height="194" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1584703769782" />
+    <state width="890" height="194" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1584703828512" />
+    <state width="826" height="194" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1581958761743" />
+    <state width="890" height="194" key="GridCell.Tab.0.right" timestamp="1584703828513">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state width="890" height="194" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1584113277892" />
+    <state width="890" height="194" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1584191533808" />
+    <state width="890" height="194" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1584703769783" />
+    <state width="890" height="194" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1584703828513" />
+    <state width="826" height="194" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1581958761743" />
+    <state width="604" height="243" key="GridCell.Tab.1.bottom" timestamp="1582014342570">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="604" height="243" key="GridCell.Tab.1.bottom/0.23.1440.810@0.23.1440.810" timestamp="1582014342570" />
+    <state width="826" height="243" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1581850417361" />
+    <state width="826" height="243" key="GridCell.Tab.1.bottom/0.23.1440.815@0.23.1440.815" timestamp="1581850826262" />
+    <state width="604" height="243" key="GridCell.Tab.1.center" timestamp="1582014342570">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="604" height="243" key="GridCell.Tab.1.center/0.23.1440.810@0.23.1440.810" timestamp="1582014342570" />
+    <state width="826" height="243" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1581850417360" />
+    <state width="826" height="243" key="GridCell.Tab.1.center/0.23.1440.815@0.23.1440.815" timestamp="1581850826261" />
+    <state width="604" height="243" key="GridCell.Tab.1.left" timestamp="1582014342569">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="604" height="243" key="GridCell.Tab.1.left/0.23.1440.810@0.23.1440.810" timestamp="1582014342569" />
+    <state width="826" height="243" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1581850417360" />
+    <state width="826" height="243" key="GridCell.Tab.1.left/0.23.1440.815@0.23.1440.815" timestamp="1581850826261" />
+    <state width="604" height="243" key="GridCell.Tab.1.right" timestamp="1582014342570">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="604" height="243" key="GridCell.Tab.1.right/0.23.1440.810@0.23.1440.810" timestamp="1582014342570" />
+    <state width="826" height="243" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1581850417361" />
+    <state width="826" height="243" key="GridCell.Tab.1.right/0.23.1440.815@0.23.1440.815" timestamp="1581850826262" />
+    <state x="463" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584703437743">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="463" y="224" key="com.intellij.ide.util.TipDialog/0.23.1440.807@0.23.1440.807" timestamp="1583137051213" />
+    <state x="463" y="225" key="com.intellij.ide.util.TipDialog/0.23.1440.810@0.23.1440.810" timestamp="1584189247427" />
+    <state x="463" y="225" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1584106377609" />
+    <state x="463" y="225" key="com.intellij.ide.util.TipDialog/0.23.1440.813@0.23.1440.813" timestamp="1584703437743" />
+    <state x="463" y="226" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1581956294957" />
+    <state x="498" y="23" width="838" height="808" key="search.everywhere.popup" timestamp="1582616656375">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="498" y="23" width="838" height="808" key="search.everywhere.popup/0.23.1440.807@0.23.1440.807" timestamp="1582616656375" />
+    <state x="498" y="23" width="838" height="810" key="search.everywhere.popup/0.23.1440.810@0.23.1440.810" timestamp="1582012330814" />
+    <state x="498" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1582003508296" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/integertostring.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ch2$w3basic18.coverage" NAME="w3basic18 Coverage Results" MODIFIED="1582013517100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$ab.coverage" NAME="ab Coverage Results" MODIFIED="1582267964667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic24.coverage" NAME="w3basic24 Coverage Results" MODIFIED="1583139287567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$start.coverage" NAME="start Coverage Results" MODIFIED="1584113271106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../leetcode" />
+    <SUITE FILE_PATH="coverage/Ch2$builtinlen.coverage" NAME="builtinabs Coverage Results" MODIFIED="1581850667459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$import_modulesfiles.coverage" NAME="import modulesfiles Coverage Results" MODIFIED="1582976381365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1583049218879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Building Data structures" />
+    <SUITE FILE_PATH="coverage/Ch2$httprequest.coverage" NAME="httprequest Coverage Results" MODIFIED="1583645322209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic27.coverage" NAME="w3basic27 Coverage Results" MODIFIED="1584107508129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic26.coverage" NAME="w3basic26 Coverage Results" MODIFIED="1584108202145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$http_requests2.coverage" NAME="http requests2 Coverage Results" MODIFIED="1583648645228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$deque.coverage" NAME="deque Coverage Results" MODIFIED="1583048512162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Building Data structures" />
+    <SUITE FILE_PATH="coverage/Ch2$datetime.coverage" NAME="datetime Coverage Results" MODIFIED="1584703828497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../100dayswithpython" />
+    <SUITE FILE_PATH="coverage/Ch2$acessingallkeysvalindict.coverage" NAME="acessingallkeysvalindict Coverage Results" MODIFIED="1581530328519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$builtinreversed.coverage" NAME="builtinreversed Coverage Results" MODIFIED="1581752562897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$raisevalueerror.coverage" NAME="raisevalueerror Coverage Results" MODIFIED="1582003825602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$builtinabs.coverage" NAME="builtinabs Coverage Results" MODIFIED="1581856631638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$builtinall.coverage" NAME="builtinall Coverage Results" MODIFIED="1581745235757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic22.coverage" NAME="w3basic22 Coverage Results" MODIFIED="1582980857785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic17.coverage" NAME="w3basic17 Coverage Results" MODIFIED="1582011680971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic23.coverage" NAME="w3basic23 Coverage Results" MODIFIED="1582981818436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$termcolor.coverage" NAME="termcolor Coverage Results" MODIFIED="1583600404364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$list_print_without_loop.coverage" NAME="list print without loop Coverage Results" MODIFIED="1582276376600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$builtinzip.coverage" NAME="builtinzip Coverage Results" MODIFIED="1581958761733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$leetcode125_validpalindrome_.coverage" NAME="leetcode125(validpalindrome) Coverage Results" MODIFIED="1584703696292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../leetcode" />
+    <SUITE FILE_PATH="coverage/Ch2$tryandexcept.coverage" NAME="tryandexcept Coverage Results" MODIFIED="1582268417316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$builtinmax.coverage" NAME="builtinmax Coverage Results" MODIFIED="1581746880284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$bananas.coverage" NAME="bananas Coverage Results" MODIFIED="1582979330047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$pattern1.coverage" NAME="pattern1 Coverage Results" MODIFIED="1582614345998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic19.coverage" NAME="w3basic19 Coverage Results" MODIFIED="1582871730604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$w3basic25.coverage" NAME="w3basic25 Coverage Results" MODIFIED="1583648284854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$Builtinmodules.coverage" NAME="Builtinmodules Coverage Results" MODIFIED="1582615341685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Ch2$lists.coverage" NAME="lists Coverage Results" MODIFIED="1583047810006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Building Data structures" />
+  </component>
+</project>

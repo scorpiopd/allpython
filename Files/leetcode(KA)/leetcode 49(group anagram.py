@@ -19,6 +19,6 @@ def group_anagrams(strs):
         else:
             ht[ss]=[string]
 
-    return ht.values()
+    return list(ht.values())
 
 print(group_anagrams(strs))

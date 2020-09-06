@@ -12,3 +12,10 @@ print(a[2])#printing associated value to the key
 s={9,2,3,41}
 s.add(66)
 print(s)
+
+s={11:99,2:137}
+s[23] = 32
+
+for d in s.items():
+    print(d)
+print(s[11])

@@ -1,6 +1,4 @@
-
-
-def backspaceCompare(self,S,T):
+def backspaceCompare(S,T):
     s_stack=[]
     t_stack=[]
 
@@ -20,10 +18,10 @@ def backspaceCompare(self,S,T):
             t_stack.append(char)
 
     return s_stack==t_stack
-
-
-
 print(backspaceCompare("abc#","abc#"))
+
+
+
 
 
 

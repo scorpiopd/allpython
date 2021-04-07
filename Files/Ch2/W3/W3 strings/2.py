@@ -9,3 +9,6 @@ for i in strin:
         d[i]=1
 
 print(d)
+
+
+#https://www.geeksforgeeks.org/python-frequency-of-each-character-in-string/

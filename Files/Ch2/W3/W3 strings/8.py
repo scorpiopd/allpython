@@ -25,17 +25,7 @@ for ele in a:
         
         
         
-#mysol
 
-a=["geeksforgeeks","abc","hello"]
-
-mx=-1
-
-for ele in a:
-    if len(ele) > mx:
-        mx=len(ele)
-        res=ele
-        print(res)
         
         
 #mysol

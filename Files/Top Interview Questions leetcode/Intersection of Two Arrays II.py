@@ -28,3 +28,29 @@ for i in nums1:
         nums2[j]=-1
 print(a)
         
+
+ #sol2
+d={}
+a=[]
+for i in nums1:
+    if i in d:
+        d[i]+=1
+    else:
+        d[i]=1
+
+for i in nums2:
+    if i in d:
+        if d[i]> 0:
+            ar.append(i)
+            d[i]-=1
+print(a)
+
+
+
+#sol3
+def intersect(self, nums1, nums2):
+    a, b = map(collections.Counter, (nums1, nums2))
+    return list((a & b).elements())
+  
+  
+  

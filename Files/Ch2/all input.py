@@ -29,3 +29,10 @@ for i in range(0,n):
     colors.append(ele)
 print(colors)
 
+
+
+no_of_lines = int(input())
+lines = []
+for i in range(no_of_lines):
+    lines+=input()
+print(lines)

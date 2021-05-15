@@ -30,9 +30,18 @@ for i in range(0,n):
 print(colors)
 
 
-
 no_of_lines = int(input())
 lines = []
 for i in range(no_of_lines):
     lines+=input()
 print(lines)
+
+
+###################BEST
+
+n = int(input())
+for i in range(n):
+    y = list(map(int,input().split()))
+ 
+    print(y)
+    

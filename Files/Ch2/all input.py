@@ -45,3 +45,11 @@ for i in range(n):
  
     print(y)
     
+    
+a=int(input())
+
+count=1
+b=[]
+for i in range(0,a):
+  b.append(input().split()) 
+    

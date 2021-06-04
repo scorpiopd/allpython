@@ -52,4 +52,21 @@ count=1
 b=[]
 for i in range(0,a):
   b.append(input().split()) 
+
+
+
+
+n = int(input())                        #2 Icosahedron Cube
+arr=[]
+for i in range(n):
+    string = input().split()
+    arr+=string
+print(arr)
+
+
+
+n = int(input())                         #2 Icosahedron Cube
+for i in range(n):
+    string = input()
+    print(string)
     
